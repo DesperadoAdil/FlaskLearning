@@ -2,7 +2,7 @@
 2019/4/23  [返回](https://desperadoadil.github.io/FlaskLearning/)
 
 ---
-[View on Github](https://github.com/DesperadoAdil/FlaskLearning/codes/start_template/)  
+[View on Github](https://github.com/DesperadoAdil/FlaskLearning/tree/master/codes/start_tamplate)  
 项目结构:
 ```python
 |-- start_template
